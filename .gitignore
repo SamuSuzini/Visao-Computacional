@@ -1,3 +1,6 @@
 .venv
-/arquivos
+arquivos/
 cinza-blu*
+manipulan*
+rgb-bgr-op*
+video-webca*
